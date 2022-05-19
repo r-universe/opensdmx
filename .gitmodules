@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rsdmx"]
+	path = rsdmx
+	url = https://github.com/opensdmx/rsdmx
+	shallow = true
+	registered = true
